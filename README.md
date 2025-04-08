@@ -1,0 +1,1 @@
+The Java Car Rental System is a desktop-based application developed using Object-Oriented Programming (OOP) principles in Java. This project aims to provide an efficient and user-friendly platform for managing car rental services. It is designed to handle various aspects of a rental business, including vehicle management.
